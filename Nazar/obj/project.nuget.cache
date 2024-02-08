@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lDd0TKTFYm8/61JrNxMv6pu2/Rtz1n1xWpRPfuHDV2FFVW9vcIbdZssu4ZfD0Xydk6TyBF39Jm3J8WjEg3s8ag==",
+  "success": true,
+  "projectFilePath": "F:\\nazar\\Nazar\\Nazar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RaduAlexandru\\.nuget\\packages\\stereokit\\0.3.8\\stereokit.0.3.8.nupkg.sha512",
+    "C:\\Users\\RaduAlexandru\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

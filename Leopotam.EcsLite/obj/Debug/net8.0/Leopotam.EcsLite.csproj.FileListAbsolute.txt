@@ -1,0 +1,11 @@
+F:\Nazar\Leopotam.EcsLite\bin\Debug\net8.0\Leopotam.EcsLite.deps.json
+F:\Nazar\Leopotam.EcsLite\bin\Debug\net8.0\Leopotam.EcsLite.dll
+F:\Nazar\Leopotam.EcsLite\bin\Debug\net8.0\Leopotam.EcsLite.pdb
+F:\Nazar\Leopotam.EcsLite\obj\Debug\net8.0\Leopotam.EcsLite.GeneratedMSBuildEditorConfig.editorconfig
+F:\Nazar\Leopotam.EcsLite\obj\Debug\net8.0\Leopotam.EcsLite.AssemblyInfoInputs.cache
+F:\Nazar\Leopotam.EcsLite\obj\Debug\net8.0\Leopotam.EcsLite.AssemblyInfo.cs
+F:\Nazar\Leopotam.EcsLite\obj\Debug\net8.0\Leopotam.EcsLite.csproj.CoreCompileInputs.cache
+F:\Nazar\Leopotam.EcsLite\obj\Debug\net8.0\Leopotam.EcsLite.dll
+F:\Nazar\Leopotam.EcsLite\obj\Debug\net8.0\refint\Leopotam.EcsLite.dll
+F:\Nazar\Leopotam.EcsLite\obj\Debug\net8.0\Leopotam.EcsLite.pdb
+F:\Nazar\Leopotam.EcsLite\obj\Debug\net8.0\ref\Leopotam.EcsLite.dll

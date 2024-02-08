@@ -1,0 +1,3 @@
+Nazar.MainActivity, Nazar_Android;crc645535ce4ec40f0bc1.MainActivity
+Nazar.MainActivity;crc645535ce4ec40f0bc1.MainActivity
+nazar.MainActivity;crc645535ce4ec40f0bc1.MainActivity

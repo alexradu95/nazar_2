@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6r+gRyiSwfIUARiB0joPwr7PFZ+AgLkA3GrVYPPtM5amziE2SsZw5zC5/jJcEDy1xm279sY6Bb276KO9pwJM4w==",
+  "success": true,
+  "projectFilePath": "F:\\nazar\\Nazar\\Projects\\Android\\Nazar_Android.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RaduAlexandru\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\RaduAlexandru\\.nuget\\packages\\stereokit\\0.3.8\\stereokit.0.3.8.nupkg.sha512",
+    "C:\\Users\\RaduAlexandru\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
